@@ -1,1 +1,1 @@
-Hello World in c
+c-pointers,arrays and strings
